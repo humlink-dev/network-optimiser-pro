@@ -185,9 +185,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on:
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/network-optimizer-pro/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/network-optimizer-pro/discussions)
-- **Wiki:** [Documentation](https://github.com/yourusername/network-optimizer-pro/wiki)
+- **Issues:** [GitHub Issues](https://github.com/humlink/network-optimizer-pro/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/humlink/network-optimizer-pro/discussions)
+- **Wiki:** [Documentation](https://github.com/humlink/network-optimizer-pro/wiki)
 
 ---
 
