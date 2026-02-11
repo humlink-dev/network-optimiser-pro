@@ -183,14 +183,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on:
 
 ---
 
-## Support
-
-- **Issues:** [GitHub Issues](https://github.com/humlink-dev/network-optimizer-pro/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/humlink-dev/network-optimizer-pro/discussions)
-- **Wiki:** [Documentation](https://github.com/humlink-dev/network-optimizer-pro/wiki)
-
----
-
 **Legend:**
 - **Added** - New features
 - **Changed** - Changes in existing functionality
